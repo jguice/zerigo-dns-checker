@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    crack (0.4.2)
+      safe_yaml (~> 1.0.0)
+    htmlentities (4.3.3)
+    jeffrafter-resource_party (0.2.0)
+      htmlentities
+      jnunemaker-httparty
+    jnunemaker-httparty (0.4.5)
+      crack (>= 0.1.1)
+    net-ping (1.7.7)
+    safe_yaml (1.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jeffrafter-resource_party (~> 0.2.0)
+  net-ping (~> 1.7.7)
