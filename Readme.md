@@ -10,4 +10,4 @@ bundle install
 bundle exec ./check_dns.rb 
 ```
 
-_NOTE_ you'll probably need to run this with sudo as shown in the example for the pings to work
+**NOTE:** you'll probably need to run this with sudo as shown in the example for the pings to work.
