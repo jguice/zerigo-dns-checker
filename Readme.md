@@ -7,5 +7,7 @@ records and shows success/failure. :)
 ```
 git clone git@github.com:jguice/zerigo-dns-checker.git
 bundle install
-bundle exec ./check_dns.rb # note you'll probably need to run it with sudo as shown in the example
+bundle exec ./check_dns.rb 
 ```
+
+_NOTE_ you'll probably need to run this with sudo as shown in the example for the pings to work
